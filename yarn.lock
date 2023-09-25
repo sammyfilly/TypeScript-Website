@@ -4369,7 +4369,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"minimatch@npm:3.0.4, minimatch@npm:^3.0.4":
+"minimatch@npm:3.1.2":
+  version: 3.1.2
+  resolution: "minimatch@npm:3.1.2"
+  dependencies:
+    brace-expansion: ^1.1.7
+  checksum: c154e566406683e7bcb746e000b84d74465b3a832c45d59912b9b55cd50dee66e5c4b1e5566dba26154040e51672f9aa450a9aef0c97cfc7336b78b7afb9540a
+  languageName: node
+  linkType: hard
+
+"minimatch@npm:^3.0.4":
   version: 3.0.4
   resolution: "minimatch@npm:3.0.4"
   dependencies:
@@ -5637,7 +5646,7 @@ resolve@^1.10.0:
     node-polyfill-webpack-plugin: ^1.1.0
     pleb: ^2.6.1
     reflect-metadata: ^0.1.13
-    serve-handler: ^6.1.2
+    serve-handler: ^6.1.5
     xmldom: ^0.5.0
   languageName: unknown
   linkType: soft
@@ -5746,19 +5755,19 @@ resolve@^1.10.0:
   languageName: node
   linkType: hard
 
-"serve-handler@npm:^6.1.2":
-  version: 6.1.2
-  resolution: "serve-handler@npm:6.1.2"
+"serve-handler@npm:^6.1.5":
+  version: 6.1.5
+  resolution: "serve-handler@npm:6.1.5"
   dependencies:
     bytes: 3.0.0
     content-disposition: 0.5.2
     fast-url-parser: 1.1.3
     mime-types: 2.1.18
-    minimatch: 3.0.4
+    minimatch: 3.1.2
     path-is-inside: 1.0.2
     path-to-regexp: 2.2.1
     range-parser: 1.2.0
-  checksum: 33bef4dcce3d0f3262849ce9071ed6302dffb4f1c9f044ce1df5ec462150abcd8922fb6fc19fb4fed7e22415843ccf543851b0c140e923e59c94d2ca7dd865b4
+  checksum: 7a98ca9cbf8692583b6cde4deb3941cff900fa38bf16adbfccccd8430209bab781e21d9a1f61c9c03e226f9f67689893bbce25941368f3ddaf985fc3858b49dc
   languageName: node
   linkType: hard
 
