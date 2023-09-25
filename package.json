@@ -52,7 +52,7 @@
     "gray-matter": "4.0.2",
     "node-polyfill-webpack-plugin": "^1.1.0",
     "serve-handler": "^6.1.2",
-    "xmldom": "^0.5.0"
+    "xmldom": "^0.6.0"
   },
   "repository": "microsoft/TypeScript-Website",
   "author": "Deploy Bot <ortam@microsoft.com>",

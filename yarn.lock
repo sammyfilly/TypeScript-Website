@@ -5638,7 +5638,7 @@ resolve@^1.10.0:
     pleb: ^2.6.1
     reflect-metadata: ^0.1.13
     serve-handler: ^6.1.2
-    xmldom: ^0.5.0
+    xmldom: ^0.6.0
   languageName: unknown
   linkType: soft
 
@@ -6843,10 +6843,10 @@ resolve@^1.10.0:
   languageName: node
   linkType: hard
 
-"xmldom@npm:^0.5.0":
-  version: 0.5.0
-  resolution: "xmldom@npm:0.5.0"
-  checksum: 6afbfc9f4de847d1e12a3a95e393750a55f6b074881cd3c6192c99421a8548b0687b7851113d6318ff0121615674d3b064924f1c478da1c840757626bdfe4c18
+"xmldom@npm:^0.6.0":
+  version: 0.6.0
+  resolution: "xmldom@npm:0.6.0"
+  checksum: 710f64f5b2ba8ac1cbcf62c2e35b095a2f9ccbd596062efe037a5ca85d3ee077b691c4d74952ff476e4bab0dd82727604262899f25dddbb02f89ddeea4cca7f9
   languageName: node
   linkType: hard
 
